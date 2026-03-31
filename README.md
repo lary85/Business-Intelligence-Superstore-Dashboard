@@ -6,6 +6,8 @@ This project presents an interactive executive-level Power BI dashboard develope
 
 The dashboard provides a comprehensive analysis of sales performance, order trends, and operational metrics, with a strong emphasis on time-based insights. Users can explore fluctuations in revenue across months, identify peak and low-performing periods, and evaluate overall business performance using dynamic filters and drill-through capabilities.
 
+
+
 ### Key features of the report
 
 - Time-series analysis to track monthly sales trends and detect seasonal patterns
