@@ -6,7 +6,10 @@ This project presents an interactive executive-level Power BI dashboard develope
 
 The dashboard provides a comprehensive analysis of sales performance, order trends, and operational metrics, with a strong emphasis on time-based insights. Users can explore fluctuations in revenue across months, identify peak and low-performing periods, and evaluate overall business performance using dynamic filters and drill-through capabilities.
 
+[Executive overview](https://github.com/lary85/Business-Intelligence-Superstore-Dashboard/blob/main/Mosa%20Executive%20overview.png) 
 
+
+<img width="470" height="331" alt="Mosa Executive overview" src="https://github.com/user-attachments/assets/7de32539-295e-41ae-9f32-b32627c1e9e4" />
 
 ### Key features of the report
 
