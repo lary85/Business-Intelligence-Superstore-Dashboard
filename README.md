@@ -1,6 +1,8 @@
 # Business-Intelligence-Superstore-Dashboard
 An interactive executive-level dashboard, designed and implemented in Microsoft Power BI for Mosa Superstore, leveraging advanced DAX expressions and intuitive visualizations to uncover key business insights.
 
+![summary](https://github.com/lary85/Business-Intelligence-Superstore-Dashboard/raw/main/Executive%20Mosa%20with%20drill%20through%20slicers.png)
+
 ### Project Overview
 This project presents an interactive executive-level Power BI dashboard developed for Mosa Group of Stores, designed to analyze business performance over a two-year period. The report focuses on identifying key trends, highlighting performance highs and lows, and enabling data-driven decision-making through intuitive visual storytelling.
 
