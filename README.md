@@ -39,6 +39,8 @@ The dashboard enables stakeholders to:
 - Detect operational inefficiencies (returns and cancellations).
 - Make data-driven decisions to improve revenue and customer satisfaction.
 
+![Sales and Seasonality](https://github.com/lary85/Business-Intelligence-Superstore-Dashboard/raw/main/Mosa%20Sales%20and%20Seasonality.png)
+
 ### How to Use
 - Download the .pbix file from this repository
 - Open using Microsoft Power BI Desktop
